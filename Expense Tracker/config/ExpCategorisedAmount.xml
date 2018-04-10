@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Categories>
+<Category>
+    <name>Grocery</name>
+    <amount>250.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Schooling</name>
+    <amount>120.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>External Food</name>
+    <amount>125.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Travel Tickets</name>
+    <amount>180.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Clothing</name>
+    <amount>50.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Sport</name>
+    <amount>50.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Electricity</name>
+    <amount>60.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Household</name>
+    <amount>50.00</amount>
+    <usage>Y</usage>
+</Category>
+<Category>
+    <name>Trips</name>
+    <amount>150.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Rent</name>
+    <amount>1200.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Telecom and Net</name>
+    <amount>60.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Bank</name>
+    <amount>0.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Others</name>
+    <amount>25.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Medical</name>
+    <amount>25.00</amount>
+    <usage>N</usage>
+</Category>
+<Category>
+    <name>Insurance</name>
+    <amount>15.00</amount>
+    <usage>Y</usage>
+</Category>
+<Category>
+    <name>Loan</name>
+    <amount>0.00</amount>
+    <usage>Y</usage>
+</Category>
+<Category>
+    <name>Baby</name>
+    <amount>50.00</amount>
+    <usage>Y</usage>
+</Category>
+<Category>
+    <name>India</name>
+    <amount>200.00</amount>
+    <usage>Y</usage>
+</Category>
+</Categories> 

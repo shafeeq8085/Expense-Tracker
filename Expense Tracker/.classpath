@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/poi-3.2-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/poi-scratchpad-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/poi-examples-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/xmleditorkit.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jakarta-regexp-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jasperreports-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

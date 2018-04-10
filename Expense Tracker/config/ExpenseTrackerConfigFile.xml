@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+	<entry key="Environment">Test</entry>
+
+	<entry key="DatabaseName">DB2E</entry>
+	<entry key="ServerName">mvs5.muc.allianz</entry>
+	<entry key="PortNumber">6012</entry>
+
+	<entry key="User">OFIBURC</entry>
+	<entry key="Password">b05d4c34c4017df4825c1c3b24428541{AES}</entry>
+
+	<entry key="DbSchema">TEST</entry>
+	<entry key="DB2Monitor">Yes</entry>
+	<entry key="DB2TraceLevel">NONE</entry>
+
+	<entry key="AdressenSeitenNummer">1</entry>
+	<entry key="xPosition">16mm</entry>
+	<entry key="yPosition">44mm</entry>
+	<entry key="wLaenge">65mm</entry>
+	<entry key="hLaenge">27mm</entry>
+
+
+	<entry key="Compart_PROFILExx">/l/bin/apkv_addr_parser/jbridgeprofiltest</entry>
+	<entry key="Compart_PROFILE"/>
+	<entry key="Compart_LICDIR">/l/bin/apkv_addr_parser/jbridge/lic</entry>
+	<entry key="Compart_LICNAME">cpsdk.lic</entry>
+
+	<entry key="RESOURCE_RETRY_COUNT">2</entry>
+	<entry key="RESOURCE_WAIT_TIME">3</entry>
+
+	<entry key="VIEWER_SERVER_URL">https://absviewer-dev.muc.allianz/dmsviewerresponsebuilder_app/intranet/content/</entry>
+
+
+</properties>

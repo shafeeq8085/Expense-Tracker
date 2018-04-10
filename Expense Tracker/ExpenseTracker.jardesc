@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="//WWG00M.ROOTDOM.NET/DFS/HOME/OFIBURC/Desktop/ET.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Expense Tracker/ExpenseTracker.jardesc" exportErrors="false" exportWarnings="false" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Expense Tracker/src&lt;com.allianz.ExpenseTracker{ExpenseTrackerMain.java[ExpenseTrackerMain" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Expense Tracker"/>
+    </selectedElements>
+</jardesc>
